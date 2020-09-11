@@ -94,7 +94,7 @@ footer{
 }
  
 	
-@media(max-width:1200px){
+@media all and (max-width:1200px){
 
 	.box1{
 		grid-column: 1/4;
@@ -118,7 +118,7 @@ footer{
 
 }
 
-@media(max-width:960px){
+@media all and (max-width:960px){
 
 	main{
 		height: 1200px;
@@ -165,7 +165,7 @@ footer{
 	
 }
 
-@media(max-width:768px){
+@media all and (max-width:768px){
 
 	main{
 		height: 1700px;
